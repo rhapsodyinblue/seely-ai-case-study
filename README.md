@@ -2,20 +2,19 @@
 
 ## The Problem
 
-Many HVAC and plumbing businesses miss customer calls after hours. Missing those calls can mean missed revenue, delayed service, and a poor customer experience.
-
+Many HVAC and plumbing businesses depend on answering the phone quickly, even after normal business hours. Every unanswered call is a potential lost customer, but existing automated phone systems often leave customers frusterated instead of helping them.
 ## The Goal
 
-Build an AI-powered after-hours answering system that could answer customer calls, identify emergencies, collect important information, and send business owners a useful summary before the next business day.
-
+This project explored whether AI could become a dependable first point of contact--one that could gather the right information, recognize urgent situations, and make it easier for business owners to follow up with confidence the next business day.
 ## The Approach
 
-The system combined AI, voice technology, and workflow automation to guide conversations, determine the customer's needs, and organize the information into a format that business owners could quickly review and act on.
-
+The system combined AI and voice technology to guide conversations, determine the customer’s needs, recognize urgent situations, and organize the information into a format business owners could quickly review and act on.
 ## What We Learned
 
-The biggest lesson from this project wasn't technical.
+The most valuable lesson from this project wasn’t technical.
 
-We realized we had built a solution before validating whether customers actually wanted it.
+While the system successfully demonstrated what AI could do, we realized we had approached the project in the wrong order. We invested significant time building a solution before confirming that customers truly wanted it.
 
-That experience fundamentally changed how we approach building products. Today we start by validating the problem first and building only after confirming there is real demand.
+That experience fundamentally changed how we approach new ideas. Instead of building first and searching for customers later, we now begin by validating the problem, confirming there is genuine demand, and only then investing in a solution.
+
+That shift in thinking has influenced every major project that followed.
