@@ -28,3 +28,14 @@ While the system successfully demonstrated what AI could do, we realized we had 
 That experience fundamentally changed how we approach new ideas. Instead of building first and searching for customers later, we now begin by validating the problem, confirming there is genuine demand, and only then investing in a solution.
 
 That shift in thinking has influenced every major project that followed.
+## Project Outcomes
+
+The project successfully demonstrated that an AI system could:
+
+- Answer after-hours customer calls.
+- Collect structured customer information.
+- Distinguish between emergency and standard calls.
+- Generate business-ready call summaries.
+- Deliver those summaries for next-day follow-up.
+
+Although the project ultimately changed direction before being commercialized, it became the foundation for several ideas that shaped later projects, including Leo and a new approach to product validation.
