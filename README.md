@@ -9,6 +9,8 @@ This project explored whether AI could become a dependable first point of contac
 ## The Approach
 
 The system combined AI and voice technology to guide conversations, determine the customer’s needs, recognize urgent situations, and organize the information into a format business owners could quickly review and act on.
+## System Overview
+![Seely AI Call Flow](Seely AI Flowchart.png)
 ## What We Learned
 
 The most valuable lesson from this project wasn’t technical.
