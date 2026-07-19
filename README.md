@@ -10,7 +10,36 @@ This project explored whether AI could become a dependable first point of contac
 
 The system combined AI and voice technology to guide conversations, determine the customer’s needs, recognize urgent situations, and organize the information into a format business owners could quickly review and act on.
 ## System Overview
+
 ![Seely AI Call Flow](seely-ai-flowchart.png)
+### Example: Emergency Call Summary
+
+This is the structured summary delivered to the business owner after an urgent service call.
+
+<p align="center">
+  <img src="seely-ai-emergency-summary.png" alt="Emergency Call Summary" width="350">
+</p>
+
+---
+
+### Example: Routine Appointment Summary
+
+This example shows how a routine appointment was organized into a clear, actionable follow-up.
+
+<p align="center">
+  <img src="seely-ai-appointment-summary.png" alt="Routine Appointment Summary" width="350">
+</p>
+
+---
+
+### Example: Conversation Recovery
+
+This example shows the AI recovering naturally after an unexpected customer response instead of repeating scripted prompts or failing.
+
+<p align="center">
+  <img src="seely-ai-conversation-recovery.png" alt="Conversation Recovery" width="350">
+</p>
+
 ## Technology Stack
 
 - OpenAI
